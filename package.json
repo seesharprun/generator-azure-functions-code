@@ -1,0 +1,27 @@
+{
+  "name": "generator-start-azure-functions",
+  "version": "0.0.1",
+  "description": "Bootstraps an Azure Functions solution.",
+  "author": "Sidney Andrews <sidney@seesharprun.net>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seesharprun/generator-azure-functions-code"
+  },
+  "bugs": {
+    "url": "https://github.com/seesharprun/generator-azure-functions-code/issues"
+  },
+  "files": [
+    "generators/app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "azure",
+    "azure-functions"
+  ],
+  "dependencies": {
+    "jsonschema": "^1.1.0",
+    "node-uuid": "^1.4.7",
+    "yeoman-generator": "^0.20.2"
+  },
+  "license": "MIT"
+}
